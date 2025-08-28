@@ -1,2 +1,3 @@
-# project-2
-Latihan HTML dan PHP
+# Project-2
+<hr>
+<b>Latihan HTML dengan PHP.</b>
